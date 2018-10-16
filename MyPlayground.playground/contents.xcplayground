@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Section 1 - Intro'/>
+        <page name='Section 2 - Control Flow'/>
+        <page name='Section 3 - Functions'/>
+        <page name='Section 4 - Class vs Struct'/>
+        <page name='Section 5 - Enumerations'/>
+        <page name='Section 6 - Protocol &amp; Extensions'/>
+        <page name='Section 7 - Plus Plus'/>
+    </pages>
+</playground>
